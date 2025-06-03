@@ -34,4 +34,8 @@ git clone https://github.com/PayalSrivastava26/matchkin-landing-page.git
 cd matchkin-landing-page
 
 # 3. Open index.html in your browser
-# (You can simply double-click the file or use a live server if you prefer)
+(You can simply double-click the file or use a live server if you prefer)
+
+## Live Demo
+
+🔗 **URL**: https://matchkin-landing-page.vercel.app/
