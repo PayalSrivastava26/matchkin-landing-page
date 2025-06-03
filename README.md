@@ -24,3 +24,14 @@ A sleek, responsive landing page for MatchKin inspired by CRED’s modern UI.
 ├── index.html # Main HTML file
 ├── style.css # Tailwind and custom animations
 ├── script.js # JavaScript interactions and logic
+
+## Set Up and Install
+
+# 1. Clone the repository
+git clone https://github.com/PayalSrivastava26/matchkin-landing-page.git
+
+# 2. Navigate into the project folder
+cd matchkin-landing-page
+
+# 3. Open index.html in your browser
+# (You can simply double-click the file or use a live server if you prefer)
